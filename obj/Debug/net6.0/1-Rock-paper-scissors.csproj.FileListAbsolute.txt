@@ -1,0 +1,15 @@
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/bin/Debug/net6.0/1-Rock-paper-scissors
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/bin/Debug/net6.0/1-Rock-paper-scissors.deps.json
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/bin/Debug/net6.0/1-Rock-paper-scissors.runtimeconfig.json
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/bin/Debug/net6.0/1-Rock-paper-scissors.dll
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/bin/Debug/net6.0/1-Rock-paper-scissors.pdb
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.csproj.AssemblyReference.cache
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.AssemblyInfoInputs.cache
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.AssemblyInfo.cs
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.csproj.CoreCompileInputs.cache
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.dll
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/refint/1-Rock-paper-scissors.dll
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.pdb
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/1-Rock-paper-scissors.genruntimeconfig.cache
+/Users/joseconejerosivo/Proyectos C#/1-Rock-paper-scissors/obj/Debug/net6.0/ref/1-Rock-paper-scissors.dll
